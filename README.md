@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Sergey</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/></h1>
 <h3 align="center">A passionate iOS developer and simply Apple devices fan 👨🏻‍💻</h3>
 
 - 🔭 I’m currently working on **https://github.com/kirillvikhlyaev/Alias**
