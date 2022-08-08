@@ -2,10 +2,11 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/></h1>
 <h3 align="center">A passionate iOS developer and Apple devices fan 👨🏻‍💻</h3>
 
-- 🔭 I’m currently working on **https://github.com/kirillvikhlyaev/Alias**
 - 🌱 I’m currently learning **CoreML**
 
 - 📫 How to reach me **tsaybelsa@gmail.com**
+
+- App created along with the team **https://github.com/kirillvikhlyaev/Alias**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
