@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **tsaybelsa@gmail.com**
 
-- App created along with the team **https://github.com/kirillvikhlyaev/Alias**
+- App created along with the team as part of the swift marathon project **https://github.com/kirillvikhlyaev/Alias**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
